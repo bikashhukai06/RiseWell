@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (bounds: 21 to 87) -->
+    <!-- Left alarm hammer bell -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M31.5,33.5 C29.5,30.5 32,27 35.5,28.5 L42,32.5 C40,34 38,36 36.5,38 Z" />
+    <!-- Right alarm hammer bell -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M76.5,33.5 C78.5,30.5 76,27 72.5,28.5 L66,32.5 C68,34 70,36 71.5,38 Z" />
+    <!-- Clock Feet -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M35,76 L30,83 C29,84.5 31,86 33,85 L39,80 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M73,76 L78,83 C79,84.5 77,86 75,85 L69,80 Z" />
+    <!-- Clock Outer Ring -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C38.5,26 26,38.5 26,54 C26,69.5 38.5,82 54,82 C69.5,82 82,69.5 82,54 C82,38.5 69.5,26 54,26 Z" />
+    <!-- Inner Dial (Rich Gradient / Sunrise tone) -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,30 C40.7,30 30,40.7 30,54 C30,67.3 40.7,78 54,78 C67.3,78 78,67.3 78,54 C78,40.7 67.3,30 54,30 Z" />
+    <!-- Sunrise glow inside dial -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M36,66 C39,56 46,50 54,50 C62,50 69,56 72,66 Z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M42,66 C44,59 48,55 54,55 C60,55 64,59 66,66 Z" />
+    <!-- Habit Checkmark / Clock Hands combo -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M48,53 L43,48 C41.8,46.8 39.8,46.8 38.6,48 C37.4,49.2 37.4,51.2 38.6,52.4 L46,59.8 C47.2,61 49.2,61 50.4,59.8 L69.4,40.8 C70.6,39.6 70.6,37.6 69.4,36.4 C68.2,35.2 66.2,35.2 65,36.4 Z" />
+    <!-- Sparkle Stars -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,20 L55.5,24 L59.5,25.5 L55.5,27 L54,31 L52.5,27 L48.5,25.5 L52.5,24 Z" />
+</vector>
